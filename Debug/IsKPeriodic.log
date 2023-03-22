@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\СProject\IsKPeriodic\IsKPeriodic\main.cpp(23,14): warning C4018: <: несоответствие типов со знаком и без знака
+E:\СProject\IsKPeriodic\IsKPeriodic\main.cpp(52,14): warning C4018: <: несоответствие типов со знаком и без знака
+E:\СProject\IsKPeriodic\IsKPeriodic\main.cpp(65,19): warning C4018: <: несоответствие типов со знаком и без знака
+E:\СProject\IsKPeriodic\IsKPeriodic\main.cpp(90,11): warning C4018: >: несоответствие типов со знаком и без знака
+  IsKPeriodic.vcxproj -> E:\СProject\IsKPeriodic\IsKPeriodic\Debug\IsKPeriodic.exe
